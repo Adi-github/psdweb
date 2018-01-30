@@ -3,7 +3,7 @@
 	background-color: #00c0ff;
 	height: 400px;
 	position: relative;
-	margin-right: 120px;
+	margin-right: 250px;
 	top: -20px;
 }
 
@@ -98,7 +98,7 @@ a
 {
 	background: #0090bf;
 	padding: 20px;
-	margin-left: 250px;
+	margin-left: 150px;
 	overflow: hidden;
 	float: left;
 }
