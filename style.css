@@ -16,7 +16,7 @@
 
 .try
 {
- margin-right: 220px;
+ right: 220px;
 
 }
 
@@ -104,7 +104,7 @@ a
 {
 	background: #0090bf;
 	padding: 20px;
-	margin-left: 180px;
+	margin-left: 200px;
 	overflow: hidden;
 	float: left;
 }
